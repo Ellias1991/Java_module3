@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-    }
+   }
 
     public static void changeIndex (int[]arr, int index1, int index2 ){
     int obj= arr[index1];
